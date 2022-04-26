@@ -1,3 +1,2 @@
-HEllo Need to update the file
-have update the file.
+HEllo Need to update the file.
 This file contains the Deployement logic
